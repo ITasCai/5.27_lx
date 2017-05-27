@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collections", "collections\collections.csproj", "{A580F8F9-6D48-45B9-98DF-C8B830B5CD66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{138B4F93-3D96-48D4-A40E-EE167193D3E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception", "Exception\Exception.csproj", "{8AD49293-85D8-4B1C-B4B7-1E6BE81F7F72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A580F8F9-6D48-45B9-98DF-C8B830B5CD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A580F8F9-6D48-45B9-98DF-C8B830B5CD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A580F8F9-6D48-45B9-98DF-C8B830B5CD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138B4F93-3D96-48D4-A40E-EE167193D3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138B4F93-3D96-48D4-A40E-EE167193D3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138B4F93-3D96-48D4-A40E-EE167193D3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138B4F93-3D96-48D4-A40E-EE167193D3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD49293-85D8-4B1C-B4B7-1E6BE81F7F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD49293-85D8-4B1C-B4B7-1E6BE81F7F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD49293-85D8-4B1C-B4B7-1E6BE81F7F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD49293-85D8-4B1C-B4B7-1E6BE81F7F72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
